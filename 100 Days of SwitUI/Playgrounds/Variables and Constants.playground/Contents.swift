@@ -8,3 +8,11 @@ name = "Keeley"
 
 let character = "Daphne"
 
+var playerName = "Roy"
+print(playerName)
+
+playerName = "Dani"
+print(playerName)
+
+playerName = "Sam"
+print(playerName)
