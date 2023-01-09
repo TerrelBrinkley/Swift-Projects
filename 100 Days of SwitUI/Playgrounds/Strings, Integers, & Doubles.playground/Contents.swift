@@ -21,3 +21,6 @@ let nameLength = actor.count
 print(nameLength)
 
 print(result.uppercased())
+
+print(movie.hasPrefix("A day"))
+print(filename.hasSuffix(".jpg"))
