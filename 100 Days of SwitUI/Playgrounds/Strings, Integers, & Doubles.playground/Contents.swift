@@ -16,3 +16,8 @@ Apple engineer
 """
 
 print(actor.count)
+
+let nameLength = actor.count
+print(nameLength)
+
+print(result.uppercased())
