@@ -24,3 +24,15 @@ print(result.uppercased())
 
 print(movie.hasPrefix("A day"))
 print(filename.hasSuffix(".jpg"))
+
+let score = 10
+// let reallyBig = 100000000
+
+let reallyBig = 100_000_000
+
+let lowerScore = score - 2
+let hightScore = score + 10
+let doubleScore = score * 2
+let squaredScore = score * score
+let havlvedScore = score / 2
+print(score)
