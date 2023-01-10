@@ -49,3 +49,8 @@ counter -= 10
 print(counter)
 counter /= 2
 print(counter)
+
+let number = 120
+print(number.isMultiple(of: 3))
+
+print(120.isMultiple(of: 3))
