@@ -1,3 +1,3 @@
 import Cocoa
 
-var greeting = "Hello, playground"
+// Checkpoint 1 - 100 Days of SwiftUI
