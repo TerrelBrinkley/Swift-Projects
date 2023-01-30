@@ -20,4 +20,5 @@ beatles.append("Vivian")
 
 let firstBeatle = beatles[0]
 let firstNumber = numbers[0]
+
 // Not Allowed > let notAllowed = firstBeatle + firstNumber
