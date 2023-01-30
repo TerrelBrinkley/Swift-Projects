@@ -11,7 +11,6 @@ print(numbers[1])
 print(temperatures[2])
 
 beatles.append("Adrian")
-
 beatles.append("Allen")
 beatles.append("Novall")
 beatles.append("Vivian")
@@ -22,3 +21,9 @@ let firstBeatle = beatles[0]
 let firstNumber = numbers[0]
 
 // Not Allowed > let notAllowed = firstBeatle + firstNumber
+
+var scores = Array<Int>()
+scores.append(100)
+scores.append(80)
+scores.append(85)
+print(scores[1])
