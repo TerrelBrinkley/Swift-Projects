@@ -40,6 +40,7 @@ albums2.append("Forklore")
 albums2.append("Fearless")
 albums2.append("Red")
 
+// Allowing Swift to declare our Array as only using String Values
 var albums3 = ["Folklore"]
 albums3.append("Fearless")
 albums3.append("Red")
