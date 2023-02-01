@@ -27,3 +27,19 @@ scores.append(100)
 scores.append(80)
 scores.append(85)
 print(scores[1])
+
+// Declaring Array to accept only String Values
+var albums1 = Array<String>()
+albums1.append("Forklore")
+albums1.append("Fearless")
+albums1.append("Red")
+
+// Declaring Array using simple bracket method - Only accepting String Values
+var albums2 = [String]()
+albums2.append("Forklore")
+albums2.append("Fearless")
+albums2.append("Red")
+
+var albums3 = ["Folklore"]
+albums3.append("Fearless")
+albums3.append("Red")
