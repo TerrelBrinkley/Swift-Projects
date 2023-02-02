@@ -75,7 +75,7 @@ print(bondMovies.contains("Frozen"))
 let cities = ["London", "Tokyo", "Rome", "Budapest"]
 print(cities.sorted())
 
-// Using reversed() to sort an Array in reverse
+// Using reversed() to sort an Array in reverse (descending order)
 
 let presidents = ["Bush", "Obama", "Trump", "Biden"]
 let reversedPresidents = presidents.reversed()
