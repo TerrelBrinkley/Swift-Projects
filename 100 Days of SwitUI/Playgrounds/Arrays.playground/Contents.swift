@@ -47,3 +47,36 @@ albums2.append("Red")
 var albums3 = ["Folklore"]
 albums3.append("Fearless")
 albums3.append("Red")
+
+// Using .count to read how many items are in an array
+
+print(albums1.count)
+print(albums2.count)
+print(albums3.count)
+
+// Using remove(at:) & removeAll() in an array
+
+var characters = ["Lana", "Pam", "Ray", "Sterling"]
+print(characters.count)
+
+characters.remove(at: 2)
+print(characters.count)
+
+characters.removeAll()
+print(characters.count)
+
+// Checking to see if Array contains a particular item using contains()
+
+let bondMovies = ["Casino Royale", "Spectre", "No Time To Die"]
+print(bondMovies.contains("Frozen"))
+
+// Using sorted() to sort an Array in ascending/alphabetical order
+
+let cities = ["London", "Tokyo", "Rome", "Budapest"]
+print(cities.sorted())
+
+// Using reversed() to sort an Array in reverse
+
+let presidents = ["Bush", "Obama", "Trump", "Biden"]
+let reversedPresidents = presidents.reversed()
+print(reversedPresidents)
