@@ -35,3 +35,14 @@ let olympics = [
 ]
 
 print(olympics[2021, default: "Unknown"])
+
+var heights = [String: Int] ()
+heights["Yao Ming"] = 229
+heights["Shaquille O'Neal"] = 216
+heights["LeBron James"] = 206
+
+var archEnemies = [String: String]()
+archEnemies["Batman"] = "The Joker"
+archEnemies["Superman"] = "Lex Luthor"
+
+archEnemies["Batman"] = "Peguin"
