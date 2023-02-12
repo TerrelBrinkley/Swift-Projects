@@ -14,3 +14,7 @@ people.insert("Denzel Washington")
 people.insert("Tom Crusie")
 people.insert("Nicolas Cage")
 people.insert("Samuel L Jackson")
+
+print(people)
+
+let people2 = Set(["Terrel", "Maya", "Nyla"])
