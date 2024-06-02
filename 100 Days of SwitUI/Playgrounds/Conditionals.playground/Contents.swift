@@ -66,6 +66,8 @@ if name != "Anonymous" {
 
 var username = "taylorswift13"
 
-if username == "" {
+if username.isEmpty {
     username = "Anonymous"
 }
+
+print("Welcome, \(username)")
