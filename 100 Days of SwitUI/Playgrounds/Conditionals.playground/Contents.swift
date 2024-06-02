@@ -51,3 +51,21 @@ if numbers.count > 3 {
 
 // Display the result
 print(numbers)
+
+let country = "Canada"
+
+if country == "Australia" {
+    print("Welcome, \(name)")
+}
+
+let name = "Taylor Swift"
+
+if name != "Anonymous" {
+    print("Welcome, \(name)")
+}
+
+var username = "taylorswift13"
+
+if username == "" {
+    username = "Anonymous"
+}
